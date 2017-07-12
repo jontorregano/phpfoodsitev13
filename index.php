@@ -56,49 +56,34 @@
                                 </li>
                                 <!-- Home end-->
                                 <!-- Contact Us-->
-                                <li class="menu-item-has-children">
+                                <li class="menu-item-has-mega-menu">
                                     <a href="contact.php">Contact Us</a>
                                 </li>
                                 <!-- Read php-->
-                                <li class="menu-item-has-children">
+                                <li class="menu-item-has-mega-menu">
                                     <a href="Content/downloads/grabngomenu.pdf">Menu Download</a>
                                 </li>
+
                                 <!-- Mega menu-->
-                                <li class="menu-item-has-children menu-item-has-mega-menu">
+                                <li class="menu-item-has-mega-menu">
                                     <a href="menu.php">Menu</a>
                                     <div class="mega-menu">
                                         <ul class="sub-menu mega-menu-row">
-                                            <!-- Column 1-->
-                                            <li class="menu-item-has-children mega-menu-col">
-                                                <a href="index.php">Breakfast</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index.php">Sandwiches</a></li>
-                                                    <li><a href="index.php">Plates</a></li>
-                                                    <li><a href="index.php">All</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Column 2-->
-                                            <li class="menu-item-has-children mega-menu-col">
-                                                <a href="index.php">Poboys</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index.php">Sandwiches</a></li>
-                                                    <li><a href="index.php">Combos</a></li>
-                                                    <li><a href="index.php">All</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Column 3-->
-                                            <li class="menu-item-has-children mega-menu-col">
-                                                <a href="index.php">Fried Chicken</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="index.php">Combos</a></li>
-                                                    <li><a href="index.php">All</a></li>
-
-                                                </ul>
-                                            </li>
                                         </ul>
-                                    </div>
+
                                 </li>
                                 <!-- Mega menu end-->
+
+                                <!-- Mega menu-->
+                                <li class="menu-item-has-mega-menu">
+                                    <a href="cart.php">Cart</a>
+                                    <div class="mega-menu">
+                                        <ul class="sub-menu mega-menu-row">
+                                        </ul>
+
+                                </li>
+                                <!-- Mega menu end-->
+
                             </ul>
                         </div>
                     </div>
@@ -106,7 +91,7 @@
                 <!-- Extra menu-->
                 <div class="extra-nav">
                     <ul>
-                        <li><a class="open-offcanvas" href="#"><span></span><span class="fa fa-bars"></span></a></li>
+                        <li><a href="cart.php"><span></span><span class="fa fa-bars"></span></a></li>
                     </ul>
                 </div>
                 <!-- Mobile menu-->
@@ -132,7 +117,7 @@
 
                          <!--   <p class="m-b-30">Start with co-working way in our studio.</p> -->
                             <p>
-                                <a class="btn btn-lg btn-circle btn-white" href="#">Online Ordering Coming Soon</a>
+                                <a class="btn btn-lg btn-circle btn-white" href="menu.php">Place Your Order</a>
                         <!--        <a class="btn btn-lg btn-outline btn-circle btn-white" href="#">Learn More</a> -->
                             </p>
                         </div>
