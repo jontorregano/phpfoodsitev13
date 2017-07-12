@@ -17,7 +17,7 @@
                     <div class="inner-nav">
                         <ul>
                             <!-- Home-->
-                            <li class="menu-item-has-children menu-item-has-mega-menu">
+                            <li class="menu-item-has-mega-menu">
                                 <a href="index.php">Home</a>
                                 <div class="mega-menu">
                                     <ul class="sub-menu mega-menu-row">
