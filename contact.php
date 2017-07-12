@@ -117,7 +117,7 @@
 
                          <!--   <p class="m-b-30">Start with co-working way in our studio.</p> -->
                             <p>
-                                <a class="btn btn-lg btn-circle btn-white" href="#">Online Ordering Coming Soon</a>
+                                <a class="btn btn-lg btn-circle btn-white" href="#">Place Your Order</a>
                         <!--        <a class="btn btn-lg btn-outline btn-circle btn-white" href="#">Learn More</a> -->
                             </p>
                         </div>
