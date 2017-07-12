@@ -6,10 +6,10 @@
  * Time: 11:56 AM
  */
 class Database{
-    private $host = "grabitngofoodmartcom.domaincommysql.com";
+    private $host = "localhost";
     private $db_name = "php_shopping_cart";
-    private $username = "grabitngo";
-    private $password = "Grab_go2017";
+    private $username = "root";
+    private $password = "";
     public $conn;
 
     public function getConnection(){
